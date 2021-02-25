@@ -4,24 +4,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [NEXT_RELEASE_VERSION]
-### Added|Updated|Delete 
-- 
 
-## 1.4.0 (2021-02-24)
-### Added\Updated\Delete 
-- 
+update : dsfsdfsdf
 
-## 1.3.0 (2021-02-24)
-### Added\Updated\Delete 
-- Some text
 
-## 1.2.0 (2021-02-24)
-### Added\Updated\Delete 
-
-## 1.1.0 (2021-02-24)
-### Added
-- TE-some text
 ## [NEXT_RELEASE_VERSION]
 ### Added|Updated|Delete 
 - 
