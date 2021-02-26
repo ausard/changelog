@@ -1,5 +1,6 @@
 echo "----Insert pattern in CHANGELOG---"
 branch=$(git branch --show-current)
+echo $branch
 latest_tag=$(git describe --tags $(git rev-list --tags --max-count=1))
 
 changelog_file="CHANGELOG.md"
