@@ -25,7 +25,6 @@ if ! grep -qF "## [NEXT_RELEASE_VERSION]" $changelog_file; then
   fi 
   git add $changelog_file
   git commit -am "update_changelog_skip_build"
-  git push 
-#   git push --set-upstream origin $branch
+  git push --set-upstream origin $branch
 fi
 echo "----------------------------------"
