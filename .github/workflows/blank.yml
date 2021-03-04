@@ -38,7 +38,7 @@ jobs:
           
           
       - name: insert
-        run: sh insert.sh
+        run: sh script.sh
         
       
       
